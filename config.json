@@ -1,3 +1,4 @@
 {
-  "token": "tokenhere"
+  "token": "tokenhere",
+  "prefix": "!"
 }
