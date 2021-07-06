@@ -13,3 +13,4 @@ client.login(token)
 client.login(process.env.token)
 ```
 
+## remember to put 01 + 02 file in a file called index.js
