@@ -5,6 +5,6 @@ client.login(process.env.token);
 
 // or 
 
-const token = require("./config.json")
+const token = require("./config.json");
 
-client.login(token)
+client.login(token);
